@@ -10,6 +10,8 @@ import tokyonightTheme from '../themes/tokyonight.theme.js';
 import solarizedTheme from '../themes/solarized.theme.js';
 import catppuccinTheme from '../themes/catppuccin.theme.js';
 import rosePineTheme from '../themes/rose-pine.theme.js';
+import auroraTheme from '../themes/aurora.theme.js';
+import midnightSunsetTheme from '../themes/midnight-sunset.theme.js';
 
 const LAYOUT = {
   width: 960,
@@ -31,6 +33,8 @@ const themes = {
   solarized: solarizedTheme,
   catppuccin: catppuccinTheme,
   'rose-pine': rosePineTheme,
+  aurora: auroraTheme,
+  'midnight-sunset': midnightSunsetTheme,
 };
 
 // current active theme
