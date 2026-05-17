@@ -75,7 +75,7 @@ Options: `left` (default), `center`, `right`
 
 **Preview:**
 
-![samdev-pulse full preview](https://samdev-pulse.vercel.app/api/profile?username=SamXop123&theme=dracula&align=center&leetcode=fjzzq2002&codeforces=tourist&codechef=tourist)
+![samdev-pulse full preview](https://samdev-pulse.vercel.app/api/profile?username=SamXop123&theme=tokyonight&align=center&leetcode=fjzzq2002&codeforces=tourist&codechef=tourist)
 
 ---
 
